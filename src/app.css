@@ -1,0 +1,25 @@
+.fontHeader {
+    font-family: 'Playfair Display', serif;
+}
+
+.fontP {
+    font-family: 'Open Sans', sans-serif;
+}
+.form{ 
+    max-width: 500px; 
+    margin: 0 auto;
+}
+.spacing{ 
+    margin-top:10px;
+}
+table.center {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
